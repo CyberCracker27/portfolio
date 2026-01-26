@@ -245,7 +245,7 @@ const platforms = [
   {
     name: "Hack The Box",
     icon: "assets/tools/hackthebox.svg",
-    profile: "https://app.hackthebox.com/users/2144960"
+    profile: "https://app.hackthebox.com/public/users/2144960"
   },
   {
     name: "LeetCode",
