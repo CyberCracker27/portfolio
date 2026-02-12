@@ -129,6 +129,11 @@ const certificates = [
     link:"https://drive.google.com/file/d/1QIKxBojxd9otD3uM-4oOwa3D8Alc72Ty/view?usp=sharing"
   },
   {
+     title:"Cybersecurity Career Starter Certification(CCSC)",
+     issuer:"Hack & Fix",
+     link: "https://drive.google.com/file/d/1KP4TR6j7ngW4HhjBCsAAD1BxAh9Crvj7/view?usp=sharing"
+  },
+  {
     title: "The Cyber Heist - CTF Participation",
     issuer: "Dr. N.G.P. Institute of Technology x Cybernexus Association",
     link: "https://drive.google.com/file/d/1M8SDMeQC8CiCAlIAHmKGrXx_7tPXpBRH/view?usp=sharing"
